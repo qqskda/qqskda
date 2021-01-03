@@ -1,7 +1,7 @@
 ### <div align="center"> I'm qqskda, a fresh graduate of the Australian National University 🎓 <br>Double majored in Computer Science and Statistics 👨‍💻 <br> [![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqqskda%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br> 
 </div> 
 <br>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=mori8&count_private=true&show_icons=true" height="180px">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=qqskda&count_private=true&show_icons=true" height="180px">
 
 - 💻 I’m currently working on making an app using openCV to solve sudoku.  
   
@@ -27,9 +27,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
 </div>
 </td></tr></table>  
-<br/>  
-
-
 
 ### Connect with me  
 <div align="center">
@@ -48,6 +45,9 @@
 </div>  
  
 ### Small Fun
-![](https://www.codewars.com/users/qqskda/badges/small)
+<div align="center">
+  
+![codewar](https://www.codewars.com/users/qqskda/badges/small)
 
+</div>  
 <br/>  
