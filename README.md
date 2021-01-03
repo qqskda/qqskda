@@ -10,8 +10,7 @@
 - 🤔 Eager to learn new stuffs everyday.  
   
 - ⚡  Important facts: Tabs over spaces. Vim over Emacs.
-  
-<br/>  
+
 
 ### My Skill Set     
 
