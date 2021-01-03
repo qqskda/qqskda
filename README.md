@@ -30,7 +30,7 @@
 
 
 ### My Skill Set     
-
+<div align="center">
 <table><tr><td valign="top" width="33%"> 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
