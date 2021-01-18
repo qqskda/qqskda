@@ -52,3 +52,5 @@
 
 </div>  
 <br>
+
+![Metrics](https://github.com/qqskda/qqskda/blob/master/github-metrics.svg)
