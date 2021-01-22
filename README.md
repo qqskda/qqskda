@@ -5,7 +5,7 @@
 
 - 💻 I’m currently working on making an app in Swift.
   
-- 🌱 I’m currently learning Swift.  
+- 🌱 I’m currently learning Swift and overall design UIs.  
   
 - 🤔 Eager to learn new stuffs everyday.  
   
