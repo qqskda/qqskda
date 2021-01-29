@@ -7,7 +7,7 @@
   
 - 🤔 Eager to learn new stuffs everyday.  
   
-- ⚡  Important facts: Tabs over spaces. Vim over Emacs.
+- ⚡  Important facts: Tabs over spaces.
   
 ### Connect with me  
 <div align="center">
