@@ -8,7 +8,9 @@
 - 🤔 Eager to learn new stuffs everyday.  
   
 - ⚡  Important facts: Tabs over spaces.
-  
+
+<br><br>
+
 ### Connect with me  
 <div align="center">
 <a href="https://github.com/qqskda" target="_blank">
