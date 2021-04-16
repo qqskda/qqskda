@@ -3,7 +3,7 @@
 <br>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=qqskda&count_private=true&show_icons=true" height="180px">
 
-- 💻 I’m currently studying Algorithms.
+- 💻 I’m currently studying Algorithms & GoLang.
   
 - 🤔 Eager to learn new stuffs everyday.  
   
