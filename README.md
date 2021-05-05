@@ -7,7 +7,7 @@
   
 - 🤔 Eager to learn new stuffs everyday.  
   
-- ⚡  Important facts: Tabs over spaces.
+- ⚡  Important facts: 4-spaces tabs over tabs
 
 <br><br>
 
