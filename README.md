@@ -1,4 +1,4 @@
-### <div align="center"> I'm qqskda, a Graduate C++ Engineer based in Sydney <br> ![Profile views counter](https://komarev.com/ghpvc/?username=qqskda&&style=flat-square)  
+### <div align="center"> I'm qqskda, a Graduate C++ Engineer based in Sydney <br><br> ![Profile views counter](https://komarev.com/ghpvc/?username=qqskda&&style=flat-square)  
 </div> 
 <br>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=qqskda&count_private=true&show_icons=true" height="180px">
