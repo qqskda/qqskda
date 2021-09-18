@@ -5,7 +5,7 @@
 
 - 💻 I’m currently studying CPP.
   
-- 🤔 Eager to learn new stuffs everyday.  
+- 🤔 Eager to learn new stuff everyday.  
   
 - ⚡  Important facts: 4-spaces tabs over tabs
 
