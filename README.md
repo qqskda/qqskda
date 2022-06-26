@@ -2,9 +2,7 @@
 </div> 
 <br>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=qqskda&count_private=true&show_icons=true" height="180px">
-
-- 💻 I’m currently studying CPP.
-  
+ 
 - 🤔 Eager to learn new stuff everyday.  
   
 - ⚡  Important facts: 4-spaces tabs over tabs
