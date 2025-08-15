@@ -1,13 +1,4 @@
-### <div align="center"> ![Profile views counter](https://komarev.com/ghpvc/?username=qqskda&&style=flat-square)  
-</div> 
-<br>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=qqskda&count_private=true&show_icons=true" height="180px">
- 
-- 🤔 Eager to learn new stuff everyday.  
-  
-- ⚡  Important facts: 4-spaces tabs over tabs
 
-<br><br>
 
 ### Connect with me  
 <div align="center">
